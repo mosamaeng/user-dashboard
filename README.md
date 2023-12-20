@@ -1,4 +1,4 @@
-# TUNE Users Dashboard Prototype
+# Users Dashboard Prototype
 
 ## Server Requirements
 - PHP >= 8.1
