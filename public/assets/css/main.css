@@ -1,0 +1,49 @@
+.user-card {
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f8f9fa;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+.user-card-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.user-card-avatar, img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #eee;
+    text-align: center;
+    line-height: 60px;
+    font-size: 24px;
+    margin-right: 10px;
+}
+.user-card-name {
+    font-size: 18px;
+    font-weight: bold;
+}
+.user-card-occupation {
+    font-size: 14px;
+    color: #777;
+}
+.user-card-stats {
+    /* justify-content: space-between; */
+    /* margin-bottom: 10px; */
+    text-align: end;
+    
+}
+.user-card-stat {
+    font-size: 16px;
+    font-weight: bold;
+}
+.user-card-stat span {
+    display: grid;
+    font-weight: 300;
+    font-size: medium;
+    font-family: emoji;
+}
+/* .user-card-graph {
+    height: 100px;
+} */
