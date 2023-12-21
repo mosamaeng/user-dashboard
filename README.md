@@ -23,7 +23,7 @@ Follow these step-by-step instructions to set up the TUNE Users Dashboard:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://osama-symits@bitbucket.org/osama-symits/userdash.git
+    git clone https://github.com/mosamaeng/user-dashboard.git
     ```
 
 2. **Install dependencies using Composer:**
